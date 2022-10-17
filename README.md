@@ -56,3 +56,7 @@ Para acessar o sistema insira sua usuário e senha
 Usuário já aceitos e pré cadastrados 
 Usuário = bruno
 Senha = 1234
+
+Instruções do Projeto 8
+
+Insira quantos funcionários deseja cadastrar na empresa e em seguida informe seus nomes e seus salários.
