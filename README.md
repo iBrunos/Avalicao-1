@@ -40,3 +40,9 @@ arquivos pesados e desnecessários para serem commitados no repositório
 git. Em qual arquivo você deve incluir a lista de extensões para que esses 
 arquivos desnecessários sejam desconsiderados? 
 . gitignore
+
+5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner 
+do time, quais são suas novas responsabilidades como PO?
+
+O Product Owner é a única pessoa responsável por gerenciar o Backlog do Produto. É responsável por informar quais recursos e funcionabilidades serão construídos e a ordem que essas tarefas precisam ser executadas, priorizar os e comunicar uma visão clara de onde o projeto precisa chegar.
+
