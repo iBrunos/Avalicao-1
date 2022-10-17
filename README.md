@@ -19,3 +19,18 @@ Daily: Reunião diária para alinhamento
 Planning:  Aqui, acontece o planejamento de cada sprint.
 Review:  Aqui, verificamos se o que foi feito está de acordo com os requisitos do produto
 Retrospectiva: Com base em tudo que foi aprendido no ciclo anterior. Quais foram os ganhos?
+
+3. José iniciou sua jornada recentemente com git e não está conseguindo 
+publicar seu arquivo README e a classe Product.js que acabou de criar. O 
+erro do git dá a seguinte informação: 
+ 
+Untracked Files: 
+README 
+Product.js 
+ 
+Por que esse “erro” de “Untracked files” ocorreu e qual comando resolveria 
+o problema? 
+git rm < Product.js >
+git rm < README >
+git status
+git commit -am "Removido arquivo"
