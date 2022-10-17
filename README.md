@@ -46,3 +46,6 @@ do time, quais são suas novas responsabilidades como PO?
 
 O Product Owner é a única pessoa responsável por gerenciar o Backlog do Produto. É responsável por informar quais recursos e funcionabilidades serão construídos e a ordem que essas tarefas precisam ser executadas, priorizar os e comunicar uma visão clara de onde o projeto precisa chegar.
 
+Instruções do Projeto 6
+
+Insira o seu nome de usuário e responda as perguntas objetivas e veja seu resultado ao fim do quiz.
