@@ -34,3 +34,9 @@ git rm < Product.js >
 git rm < README >
 git status
 git commit -am "Removido arquivo"
+
+4. O time de desenvolvimento analisou e descobriu que o projeto está gerando 
+arquivos pesados e desnecessários para serem commitados no repositório 
+git. Em qual arquivo você deve incluir a lista de extensões para que esses 
+arquivos desnecessários sejam desconsiderados? 
+. gitignore
