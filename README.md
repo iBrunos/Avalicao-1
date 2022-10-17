@@ -49,3 +49,10 @@ O Product Owner é a única pessoa responsável por gerenciar o Backlog do Produ
 Instruções do Projeto 6
 
 Insira o seu nome de usuário e responda as perguntas objetivas e veja seu resultado ao fim do quiz.
+
+Instruções do Projeto 7
+
+Para acessar o sistema insira sua usuário e senha 
+Usuário já aceitos e pré cadastrados 
+Usuário = bruno
+Senha = 1234
